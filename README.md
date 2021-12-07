@@ -7,8 +7,9 @@
 
 ### 📫 Are we match?! Come on man:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccas-specht/)](https://www.linkedin.com/in/luccas-specht/)
-![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/lucas-carre%C3%B1o-a18204174/)](https://www.linkedin.com/in/luccas-specht/)
+
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://www.discordapp.com/users/9140/)](https://www.discordapp.com/users/9140/)
+
 
 ### 🦾 Skills:
 ![enter image description here](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
