@@ -1,6 +1,6 @@
 ## 👽🖖 Hey dude what's up? Nice to have you over
 
-### 👩‍💻 So currently i'm studing about:
+### 👩‍💻 So currently i'm studying about:
 ![enter image description here](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
