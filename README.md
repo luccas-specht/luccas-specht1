@@ -18,7 +18,7 @@
 ![enter image description here](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![enter image description here](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ♟ About my stats:
+### ♟ About my Stats:
 <div>
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=luccas-specht&hide=contribs,issues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-specht&hide=objective-c,python,html,css,ruby,starlark,shell,scss,handlebars&layout=compact&langs_count=7&theme=tokyonight"/>
