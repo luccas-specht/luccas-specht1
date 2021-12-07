@@ -8,7 +8,6 @@
 ### 📫 Are we match?! Come on man:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccas-specht/)](https://www.linkedin.com/in/luccas-specht/)
 
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://www.discordapp.com/users/9140/)](https://www.discordapp.com/users/9140/)
 
 
 ### 🦾 Skills:
