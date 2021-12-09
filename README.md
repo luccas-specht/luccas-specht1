@@ -1,9 +1,5 @@
 ## 👽🖖 Hey dude what's up? Nice to have you over
 
-### 👩‍💻 So currently i'm studying about:
-![enter image description here](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![enter image description here](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
 
 ### 📫 Are we match?! Come on man:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccas-specht/)](https://www.linkedin.com/in/luccas-specht/)
