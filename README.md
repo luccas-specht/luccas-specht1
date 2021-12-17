@@ -6,7 +6,7 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://www.discordapp.com/users/9140/)](https://www.discordapp.com/users/9140/)
 
 
-### 🦾 Skills:
+### 🦾 About my Skills:
 ![enter image description here](https://img.shields.io/badge/-Javascript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![enter image description here](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge)
 ![enter image description here](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
