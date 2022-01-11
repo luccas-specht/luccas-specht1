@@ -1,9 +1,10 @@
-## 👽🖖 Hey dude what's up? Nice to have you over
+## 👋 Hey dude what's up? Nice to have you over
 
 
-### 📫 Are we already connected? Come on man:
+### 📫 Are we already connected?:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luccas-specht/)](https://www.linkedin.com/in/luccas-specht/)
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=https://www.discordapp.com/users/9140/)](https://www.discordapp.com/users/9140/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luccasspecht70@gmail.com)](mailto:luccasspecht70@gmail.com)
 
 
 ### ♟ About my Stats:
