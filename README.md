@@ -1,5 +1,6 @@
 ## 👋 Hey, nice to have you over
 
+I'm a Software Developer that loves to apply his knowledge to solve problems, building amazing products and impact lives through technology.
 
 ### 📫 You can find me on:
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermerodz)
