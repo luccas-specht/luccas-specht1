@@ -9,8 +9,8 @@
 
 ### 🧠 Core stats:
 <div>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luccas-specht&hide=contribs,issues&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-specht&hide=objective-   c,python,html,css,ruby,starlark,shell,scss,handlebars&layout=compact&langs_count=7&theme=prussian"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=luccas-specht&hide=contribs,issues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-specht&hide=objective-   c,python,html,css,ruby,starlark,shell,scss,handlebars&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
