@@ -3,7 +3,7 @@
 <strong> I'm a Software Developer that loves to apply his knowledge to solve problems, building amazing products and impact lives through technology.</strong>
 
 ### 📫 You can find me on:
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermerodz)
+[![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/luccas-specht/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail--%2300EBEB?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luccasspecht70@gmail.com)](mailto:luccasspecht70@gmail.com)
 
 
