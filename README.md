@@ -14,8 +14,8 @@
 
 
 ### 🧠 Core stats:
-![Reposito Badge](https://badges.pufler.dev/repos/luccas-specht?style=for-the-badge)
-![Years Badge](https://badges.pufler.dev/years/luccas-specht?style=for-the-badge)
+![Repos Badge](https://badges.pufler.dev/repos/luccas-specht?style=for-the-badge&color=00CDCD)
+![Years Badge](https://badges.pufler.dev/years/luccas-specht?style=for-the-badge&color=00CDCD)
 
 
 <div>
