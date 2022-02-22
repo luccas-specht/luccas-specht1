@@ -1,6 +1,12 @@
 ## 👋 Hey, nice to have you over
 
-<strong> I'm a Software Developer that loves to apply his knowledge to solve problems, building amazing products and impact lives through technology.</strong>
+<strong> 
+ Hi my name is Luccas Specht, but everyone calls me Specht, I'm a Software Developer that loves to apply his knowledge to solve problems, building amazing products and impact      lives through technology.
+</strong>
+</p>
+<strong>
+  Today, i develop principally on ReactJs with NextJs and TypeScript, but i'm a curious about software solutions and new technologies
+</strong>
 
 ### 📫 You can find me on:
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccas-specht)
@@ -8,9 +14,14 @@
 
 
 ### 🧠 Core stats:
+
+![Reposito Badge](https://badges.pufler.dev/repos/luccas-specht?style=for-the-badge)
+[![Years Badge](https://badges.pufler.dev/years/luccas-specht?style=for-the-badge)](https://badges.pufler.dev)
+
+
 <div>
-      <img height='150rem' src="https://github-readme-stats.vercel.app/api?username=luccas-specht&hide=contribs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-     <img height='150rem' src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-specht&hide=objective-c,python,ruby,starlark,shell,objective-c,handlebars,dockerfile&layout=compact&langs_count=7&theme=tokyonight"/>
+ <img height='150rem' src="https://github-readme-stats.vercel.app/api?username=luccas-specht&hide=contribs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+ <img height='150rem' src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccas-specht&hide=objective-c,python,ruby,starlark,shell,objective-c,handlebars,dockerfile&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 
