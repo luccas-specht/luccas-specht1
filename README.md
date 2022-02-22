@@ -13,7 +13,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail--%2300EBEB?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luccasspecht70@gmail.com)](mailto:luccasspecht70@gmail.com)
 
 
-### 🧠 Github informations:
+### 🧠 Core Stats:
 ![Repos Badge](https://badges.pufler.dev/repos/luccas-specht?style=for-the-badge&color=00CDCD)
 ![Years Badge](https://badges.pufler.dev/years/luccas-specht?style=for-the-badge&color=00CDCD)
 
