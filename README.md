@@ -1,7 +1,7 @@
 ## 👋 Hey, nice to have you over
 
 <strong> 
- Hi my name is Luccas Specht, but everyone calls me Specht, I'm a Software Developer that loves to apply his knowledge to solve problems, building amazing products and impact      lives through technology.
+ Hi my name is Luccas Specht, but everyone calls me Specht, currently i work as a Software Developer at [CWI Software](https://github.com/CWISoftware) that loves to apply his knowledge to solve problems, building amazing products and impact      lives through technology.
 </strong>
 </p>
 <strong>
