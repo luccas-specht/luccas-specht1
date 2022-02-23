@@ -5,7 +5,7 @@
 </strong>
 </p>
 <strong>
-  Today, i develop principally on ReactJs with NextJs and TypeScript, but i'm a curious about software solutions and new technologies
+  Today, i develop principally on ReactJs with NextJs and TypeScript, but i'm a curious about software solutions and new technologies.
 </strong>
 
 ### 📫 You can find me on:
