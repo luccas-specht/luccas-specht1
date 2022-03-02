@@ -5,7 +5,7 @@
 </strong>
 </p>
 <strong>
- Currently i work at <a href='https://bradfrost.com/blog/post/atomic-web-design/'>CWI Software</a> principally on ReactJs with NextJs and TypeScript. But i'm a curious about software solutions and new technologies too.
+ Currently i work at <a href='https://cwi.com.br/'>CWI Software</a> principally on ReactJs with NextJs and TypeScript. But i'm a curious about software solutions and new technologies too.
 </strong>
 
 ### 📫 You can find me on:
