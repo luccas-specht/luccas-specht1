@@ -14,9 +14,10 @@
 
 
 ### 🧠 Core Stats:
+<!--- 
 ![Repos Badge](https://badges.pufler.dev/repos/luccas-specht?style=for-the-badge&color=00CDCD&count)
 ![Years Badge](https://badges.pufler.dev/years/luccas-specht?style=for-the-badge&color=00CDCD)
-
+--->
 
 <div>
  <img height='150rem' src="https://github-readme-stats.vercel.app/api?username=luccas-specht&hide=contribs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
