@@ -1,11 +1,11 @@
 ## 👋 Hey, nice to have you over
 
 <strong> 
- Hi my name is Luccas Specht, but everyone calls me Specht, i'm a Software Developer that loves to apply his knowledge to solve problems, building amazing products and impact lives through technology.
+ Hi my name is Luccas Specht, but everyone calls me Specht, i'm a Frontend Software Engineer that loves to apply his knowledge to solve problems, building amazing products and impact lives through technology.
 </strong>
 </p>
 <strong>
- Currently i work at <a href='https://cwi.com.br/'>CWI Software</a> principally with ReactJs, NextJs and TypeScript. But i'm a curious about software solutions and new technologies too.
+ Currently i work at <a href='https://cwi.com.br/'>Combate à fraude</a> principally with ReactJs, NextJs and TypeScript. But i'm a curious about software solutions and new technologies too.
 </strong>
 
 ### 📫 You can find me on:
