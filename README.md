@@ -5,7 +5,7 @@
 </strong>
 </p>
 <strong>
- Currently i work at <a href='https://en.combateafraude.com'>(CAF) Combate a Fraude</a> principally with ReactJs, NextJs and TypeScript. But i'm a curious about software solutions and new technologies too.
+ Currently i work at <a href='https://www.caf.io/'>(CAF) Combate a Fraude</a> principally with ReactJs, NextJs and TypeScript. But i'm a curious about software solutions and new technologies too.
 </strong>
 
 ### 📫 You can find me on:
