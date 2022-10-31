@@ -10,7 +10,7 @@
 
 ### 📫 You can find me on:
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin--%2300EBEB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccas-specht)
-[![Gmail Badge](https://img.shields.io/badge/Gmail--%2300EBEB?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luccasspecht70@gmail.com)](mailto:luccasspecht70@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail--%2300EBEB?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:luccasspecht70@gmail.com)](mailto:luccas.specht.dev@gmail.com)
 
 
 ### 🧠 Core Stats:
